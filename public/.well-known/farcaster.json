@@ -22,7 +22,7 @@
     ],
     "primaryCategory": "social",
     "tags": ["miniapp", "baseapp"],
-    "heroImageUrl": "https://tictactoe-phi-rose.vercel.app/logo.png",
+    "heroImageUrl": "https://tictactoe-phi-rose.vercel.app/tic-tac-toe.svg",
     "tagline": "Play instantly",
     "ogTitle": "Tic-Tac-Toe",
     "ogDescription": "Challenge friends in real time.",
