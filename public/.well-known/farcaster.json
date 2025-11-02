@@ -11,7 +11,7 @@
     "version": "1",
     "name": "Tic-Tac-Toe",
     "homeUrl": "https://tictactoe-phi-rose.vercel.app",
-    "iconUrl": "https://tictactoe-phi-rose.vercel.app/tic-tac-toe.svg",
+    "iconUrl": "https://tictactoe-phi-rose.vercel.app/tic-tac-toe.png",
     "splashImageUrl": "https://tictactoe-phi-rose.vercel.app/logo.png",
     "splashBackgroundColor": "#000000",
     "webhookUrl": "https://ex.co/api/webhook",
