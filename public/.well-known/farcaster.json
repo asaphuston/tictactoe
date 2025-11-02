@@ -9,7 +9,7 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "Example Mini App",
+    "name": "Tic-Tac-Toe",
     "homeUrl": "https://ex.co",
     "iconUrl": "https://ex.co/i.png",
     "splashImageUrl": "https://ex.co/l.png",
